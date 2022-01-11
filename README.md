@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Ioannis Loudaros and I am out here, exploring the world. 
+I don't really like talking about myself, so I 'll let you take a look on my repos in peace.
+
+Have a nice day 😄
+
+
+
 <!--
 **iloudaros/iloudaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
