@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 My name is Ioannis Loudaros and I am out here, exploring the world. 
 I don't really like talking about myself, so I 'll just let you take a look on my repos in peace.
