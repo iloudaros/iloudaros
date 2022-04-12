@@ -5,7 +5,8 @@ I don't really like talking about myself, so I 'll just let you take a look on m
 
 Have a nice day 😄
 
-📃[Click here for my CV](CV.pdf)
+📃[Click here for my CV](CV.pdf) 
+(The links don't work in the GitHub viewer)
 
 
 <!--
