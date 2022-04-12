@@ -5,6 +5,7 @@ I don't really like talking about myself, so I 'll just let you take a look on m
 
 Have a nice day 😄
 
+PS - [Click here for my CV](CV.pdf)
 
 
 <!--
