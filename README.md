@@ -1,7 +1,7 @@
 ### Hey there 👋
 
-My name is Ioannis Loudaros and I am out here, exploring the world. 
-I don't really like talking about myself, so I 'll just let you take a look on my repos in peace.
+My name is Ioannis Loudaros and I am out here, exploring the world.  
+For more info about me you can check [here](johnloudaros.onuniverse.com), for now I 'll just let you take a look on my repos in peace.
 
 Have a nice day 😄
 
