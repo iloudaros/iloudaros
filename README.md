@@ -7,7 +7,7 @@ Have a nice day 😄
 
 📃[Click here for my CV](CV.pdf) 
 
-(The links don't work in the GitHub viewer)
+(The links of the document don't work in the GitHub viewer)
 
 
 <!--
