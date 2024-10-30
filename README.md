@@ -7,6 +7,8 @@ Have a nice day 😄
 
 📃[CV](CV.pdf) 
 
+--- 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iloudaros&theme=material_palenight)
 
 
 <!--
