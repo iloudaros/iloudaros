@@ -5,9 +5,8 @@ For more info about me you can check [here](https://johnloudaros.onuniverse.com)
 
 Have a nice day 😄
 
-📃[Click here for my CV](CV.pdf) 
+📃[CV](CV.pdf) 
 
-(The links of the document don't work in the GitHub viewer)
 
 
 <!--
